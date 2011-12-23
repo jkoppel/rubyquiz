@@ -1,0 +1,3 @@
+My solutions to Rubyquiz, all written in 2007 and 2008 (ages 15-16). Problem descriptions available at http://www.rubyquiz.com/ and http://www.splatbang.com/rubyquiz/ .
+
+Highlights include #137 (high-performance string implementation), #142 (approximating the TSP with genetic algorithms, and visualizing results), #143 (generating strings that a regex matches), and #158 (a very...interesting...way of writing Hello World).
